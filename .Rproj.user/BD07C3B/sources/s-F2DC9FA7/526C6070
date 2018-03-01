@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519937393896.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2636613936",
+    "id" : "526C6070",
+    "lastKnownWriteTime" : 1519937429,
+    "last_content_update" : 1519937429219,
+    "path" : "D:/Personal Projects/github/hackerrank_sql/basic-join/1.revising-the-select-query1.sql",
+    "project_path" : "basic-join/1.revising-the-select-query1.sql",
+    "properties" : {
+        "cursorPosition" : "3,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sql"
+}

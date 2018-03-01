@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519937658984.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2020190359",
+    "id" : "EEDA58E",
+    "lastKnownWriteTime" : 1519937671,
+    "last_content_update" : 1519937671827,
+    "path" : "D:/Personal Projects/github/hackerrank_sql/basic-join/9.weather-observation-station4.sql",
+    "project_path" : "basic-join/9.weather-observation-station4.sql",
+    "properties" : {
+        "cursorPosition" : "6,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sql"
+}
