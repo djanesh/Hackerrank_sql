@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519939755319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2297191000",
+    "id" : "5A58F098",
+    "lastKnownWriteTime" : 1519939773,
+    "last_content_update" : 1519939773698,
+    "path" : "D:/Personal Projects/github/hackerrank_sql/basic-join/19.name-of-employees.sql",
+    "project_path" : "basic-join/19.name-of-employees.sql",
+    "properties" : {
+        "cursorPosition" : "6,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sql"
+}
