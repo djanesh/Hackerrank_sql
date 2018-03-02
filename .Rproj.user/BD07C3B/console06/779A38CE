@@ -848,4 +848,123 @@ no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/BD07C3B/console06/779A38CE[0m[0K
+        [0;32mnew file:   advanced-select/1.type-of-triangle.sql[0m[0K
+        [0;32mnew file:   advanced-select/2.the-pads.sql[0m[0K
+        [0;32mnew file:   advanced-select/3.occupations.sql[0m[0K
+        [0;32mnew file:   basic-join/1.revising-the-select-query1.sql[0m[0K
+        [0;32mnew file:   basic-join/10.weather-observation-staion-5.sql[0m[0K
+        [0;32mnew file:   basic-join/11.weather-observation-station-6.sql[0m[0K
+        [0;32mnew file:   basic-join/12.weather-observation-station-7.sql[0m[0K
+        [0;32mnew file:   basic-join/13.weather-observation-station-8.sql[0m[0K
+        [0;32mnew file:   basic-join/14.weather-observation-station-9.sql[0m[0K
+        [0;32mnew file:   basic-join/15.weather-observation-station-10.sql[0m[0K
+        [0;32mnew file:   basic-join/16.weather-observation-station-11.sql[0m[0K
+        [0;32mnew file:   basic-join/17.weather-observation-station-12.sql[0m[0K
+        [0;32mnew file:   basic-join/18.more-than-75-marks.sql[0m[0K
+        [0;32mnew file:   basic-join/19.name-of-employees.sql[0m[0K
+        [0;32mnew file:   basic-join/2.revising-the-select-query-II.sql[0m[0K
+        [0;32mnew file:   basic-join/20.salary-of-employees.sql[0m[0K
+        [0;32mnew file:   basic-join/21.harry-potter-and-wands.sql[0m[0K
+        [0;32mnew file:   basic-join/3.select_all.sql[0m[0K
+        [0;32mnew file:   basic-join/4.select-by-id.sql[0m[0K
+        [0;32mnew file:   basic-join/5.japanese-city-attributes.sql[0m[0K
+        [0;32mnew file:   basic-join/6.japanese-city-names.sql[0m[0K
+        [0;32mnew file:   basic-join/7.weather-observation-station1.sql[0m[0K
+        [0;32mnew file:   basic-join/8.weather-observation-station3.sql[0m[0K
+        [0;32mnew file:   basic-join/9.weather-observation-station4.sql[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/BD07C3B/console06/779A38CE[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[16G[?25l$ git commit - m[0K[?25h[?25l$ git commit -[0K[16G[?25h[15G[?25l$ git commit[0K[14G[?25h[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[24G[?25l$ git commit -m "added b[0K[?25ha[0Ks[0Ki[0Kn[0K[30G[?25l$ git commit -m "added basin a[0K[?25h[?25l$ git commit -m "added basin[0K[31G[?25h[30G[29G[?25l$ git commit -m "added basi[0K[?25hc[0K[30G[?25l$ git commit -m "added basic a[0K[?25hn[0Kd[0K[34G[?25l$ git commit -m "added basic and a[0K[?25hd[0Kv[0Ka[0Kn[0Kc[0Ke[0Kd[0K[43G[?25l$ git commit -m "added basic and advanced s[0K[?25he[0Kl[0Ke[0Kc[0Kt[0K"[0K[?25l
+[0K[?25h[master 01c09f6] added basic and advanced select[0K[?25l
+[0K[?25h 25 files changed, 267 insertions(+)[0K[?25l
+ create mode 100644 advanced-select/1.type-of-triangle.sql[0K
+ create mode 100644 advanced-select/2.the-pads.sql[0K
+ create mode 100644 advanced-select/3.occupations.sql[0K
+ create mode 100644 basic-join/1.revising-the-select-query1.sql[0K
+ create mode 100644 basic-join/10.weather-observation-staion-5.sql[0K
+ create mode 100644 basic-join/11.weather-observation-station-6.sql[0K
+ create mode 100644 basic-join/12.weather-observation-station-7.sql[0K
+ create mode 100644 basic-join/13.weather-observation-station-8.sql[0K
+ create mode 100644 basic-join/14.weather-observation-station-9.sql[0K
+ create mode 100644 basic-join/15.weather-observation-station-10.sql[0K
+ create mode 100644 basic-join/16.weather-observation-station-11.sql[0K
+ create mode 100644 basic-join/17.weather-observation-station-12.sql[0K
+ create mode 100644 basic-join/18.more-than-75-marks.sql[0K
+ create mode 100644 basic-join/19.name-of-employees.sql[0K
+ create mode 100644 basic-join/2.revising-the-select-query-II.sql[0K
+ create mode 100644 basic-join/20.salary-of-employees.sql[0K
+ create mode 100644 basic-join/21.harry-potter-and-wands.sql[0K
+ create mode 100644 basic-join/3.select_all.sql[0K
+ create mode 100644 basic-join/4.select-by-id.sql[0K
+ create mode 100644 basic-join/5.japanese-city-attributes.sql[0K
+ create mode 100644 basic-join/6.japanese-city-names.sql[0K
+ create mode 100644 basic-join/7.weather-observation-station1.sql[0K
+ create mode 100644 basic-join/8.weather-observation-station3.sql[0K
+ create mode 100644 basic-join/9.weather-observation-station4.sql[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
+[0K[?25hCounting objects: 32, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (28/28), done.[0K
+Writing objects: 100% (32/32), 5.61 KiB | 0 bytes/s, done.[0K
+Total 32 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 1 local object.[0K[?25l
+[0K[?25hTo https://github.com/djanesh/Hackerrank_sql.git[0K[?25l
+   cf2cb60..01c09f6  master -> master[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/BD07C3B/console06/779A38CE[0m[0K
+        [0;31mdeleted:    basic-join/1.revising-the-select-query1.sql[0m[0K
+        [0;31mdeleted:    basic-join/10.weather-observation-staion-5.sql[0m[0K
+        [0;31mdeleted:    basic-join/11.weather-observation-station-6.sql[0m[0K
+        [0;31mdeleted:    basic-join/12.weather-observation-station-7.sql[0m[0K
+        [0;31mdeleted:    basic-join/13.weather-observation-station-8.sql[0m[0K
+        [0;31mdeleted:    basic-join/14.weather-observation-station-9.sql[0m[0K
+        [0;31mdeleted:    basic-join/15.weather-observation-station-10.sql[0m[0K
+        [0;31mdeleted:    basic-join/16.weather-observation-station-11.sql[0m[0K
+        [0;31mdeleted:    basic-join/17.weather-observation-station-12.sql[0m[0K
+        [0;31mdeleted:    basic-join/18.more-than-75-marks.sql[0m[0K
+        [0;31mdeleted:    basic-join/19.name-of-employees.sql[0m[0K
+        [0;31mdeleted:    basic-join/2.revising-the-select-query-II.sql[0m[0K
+        [0;31mdeleted:    basic-join/20.salary-of-employees.sql[0m[0K
+        [0;31mdeleted:    basic-join/21.harry-potter-and-wands.sql[0m[0K
+        [0;31mdeleted:    basic-join/3.select_all.sql[0m[0K
+        [0;31mdeleted:    basic-join/4.select-by-id.sql[0m[0K
+        [0;31mdeleted:    basic-join/5.japanese-city-attributes.sql[0m[0K
+        [0;31mdeleted:    basic-join/6.japanese-city-names.sql[0m[0K
+        [0;31mdeleted:    basic-join/7.weather-observation-station1.sql[0m[0K
+        [0;31mdeleted:    basic-join/8.weather-observation-station3.sql[0m[0K
+        [0;31mdeleted:    basic-join/9.weather-observation-station4.sql[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31mbasic-select/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
 [0K[?25h
