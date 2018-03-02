@@ -643,4 +643,123 @@ To https://github.com/djanesh/Hackerrank_sql.git[0K
 $[0K[3G[?25h[0m[0K]0;:/d/Personal Projects/github/hackerrank_sql[?25l
 [0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
 [?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/BD07C3B/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[24G[?25l$ git commit -m "added 3[0K[?25h[26G[?25l$ git commit -m "added 3 s[0K[?25ho[0Ku[0Kt[0Ki[0K[?25l$ git commit -m "added 3 sout[0K[?25h[?25l$ git commit -m "added 3 sou[0K[?25h[?25l$ git commit -m "added 3 so[0K[?25hl[0Ku[0Kt[0Ki[0Ko[0Kn[0Ks[0K[36G[?25l$ git commit -m "added 3 solutions o[0K[?25hf[0K[39G[?25l$ git commit -m "added 3 solutions of a[0K[?25hd[0Kv[0Ka[0Kn[0Kc[0Ke[0Kd[0K[48G[?25l$ git commit -m "added 3 solutions of advanced s[0K[?25hl[0Ke[0Ke[0Kc[0Kt[0K[?25l$ git commit -m "added 3 solutions of advanced sleec[0K[?25h[?25l$ git commit -m "added 3 solutions of advanced slee[0K[?25h[?25l$ git commit -m "added 3 solutions of advanced sle[0K[?25h[?25l$ git commit -m "added 3 solutions of advanced sl[0K[?25h[?25l$ git commit -m "added 3 solutions of advanced s[0K[?25he[0Kl[0Ke[0Kc[0Kt[0K"[0K[?25l
+[0K[?25h[master[0K[9G[?25l[master warning: LF will be replaced by CRLF in .Rproj.user/BD07C3B/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h18e5be7] added 3 solutions of advanced select[0K[?25l
+warning: LF will be replaced by CRLF in .Rproj.user/BD07C3B/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory.[0K
+ 8 files changed, 211 insertions(+), 8 deletions(-)[0K
+ rewrite .Rproj.user/BD07C3B/console06/INDEX001 (85%)[0K
+ create mode 100644 advanced-select/1.type-of-triangle.sql[0K
+ create mode 100644 advanced-select/2.the-pads.sql[0K
+ create mode 100644 advanced-select/3.occupations.sql[0K
+ delete mode 100644 basic-join/wind-observation-station-5.sql[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hCounting objects: 18, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (16/16), done.[0K
+Writing objects: 100% (18/18), 3.71 KiB | 0 bytes/s, done.[0K
+Total 18 (delta 6), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[0K[?25l
+[0K[?25hTo https://github.com/djanesh/Hackerrank_sql.git[0K[?25l
+   e76a82b..18e5be7  master -> master[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ w[0K[?25hh[0Ki[0Kc[0Kh[0K[9G[?25l$ which g[0K[?25hi[0Kt[0K[?25l
+[0K[?25h/cmd/git[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ u[0K[?25hs[0Ke[0Kr[0K.[0Kn[0Ka[0Km[0Ke[0K[?25l
+[0K[?25hbash: user.name: command not found[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git h[0K[?25he[0Kl[0Kp[0K[?25l
+[0K[?25husage: git [--version] [--help] [-C <path>] [-c name=value][0K[?25l
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][0K
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare][0K
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
+           <command> [<args>][0K
+[0K
+These are common Git commands used in various situations:[0K
+[0K
+start a working area (see also: git help tutorial)[0K
+   clone      Clone a repository into a new directory[0K
+   init       Create an empty Git repository or reinitialize an existing one[0K
+[0K
+work on the current change (see also: git help everyday)[0K
+   add        Add file contents to the index[0K
+   mv         Move or rename a file, a directory, or a symlink[0K
+   reset      Reset current HEAD to the specified state[0K
+   rm         Remove files from the working tree and from the index[0K
+[0K
+examine the history and state (see also: git help revisions)[0K
+   bisect     Use binary search to find the commit that introduced a bug[0K
+   grep       Print lines matching a pattern[0K
+   log        Show commit logs[0K
+   show       Show various types of objects[0K
+   status     Show the working tree status[0K
+[0K
+grow, mark and tweak your common history[0K
+   branch     List, create, or delete branches[0K
+   checkout   Switch branches or restore working tree files[0K
+   commit     Record changes to the repository[0K
+   diff       Show changes between commits, commit and working tree, etc[0K
+   merge      Join two or more development histories together[0K
+   rebase     Forward-port local commits to the updated upstream head[0K
+   tag        Create, list, delete or verify a tag object signed with GPG[0K
+[0K
+collaborate (see also: git help workflows)[0K
+   fetch      Download objects and refs from another repository[0K
+   pull       Fetch from and integrate with another repository or a local branch[0K
+   push       Update remote refs along with associated objects[0K
+[0K
+'git help -a' and 'git help -g' list available subcommands and some[0K
+concept guides. See 'git help <command>' or 'git help <concept>'[0K
+to read about a specific subcommand or concept.[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K-[0Kg[0Kl[0Ko[0Kb[0Ka[0Kl[0K[21G[?25l$ git config-global u[0K[?25hs[0Ke[0Kr[0K.[0Kn[0Ka[0Km[0Ke[0K[?25l
+[0K[?25hgit: 'config-global' is not a git command. See 'git --help'.[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K-[0Kg[0Kl[0Ko[0K[?25l$ git config-gl[0K[?25h[?25l$ git config-g[0K[?25h[?25l$ git config-[0K[?25h[?25l$ git config[0K[?25h[14G[?25l$ git config -[0K[?25h-[0Kg[0Kl[0Ko[0Kb[0Ka[0Kl[0K[23G[?25l$ git config --global us[0K[?25he[0Kr[0K.[0Kn[0Ka[0Km[0Ke[0K[?25l
+[0K[?25hJanesh[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git config --global user.name[0K[?25h[?25l$ git config --global user.nam[0K[?25h[?25l$ git config --global user.na[0K[?25h[?25l$ git config --global user.n[0K[?25h[?25l$ git config --global user.[0K[?25h[?25l$ git config --global user[0K[?25h.[0Ke[0Km[0Ka[0Ki[0Kl[0K[?25l
+[0K[?25hjanesh.devkota@gmail.com[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K[14G[?25l$ git config -[0K[?25h-[0Kg[0Kl[0Ko[0Kb[0Ka[0Kl[0K[23G[?25l$ git config --global u[0K[?25hs[0Ke[0Kr[0K.[0Ke[0Km[0Ka[0Ki[0Kl[0K[34G[?25l$ git config --global user.email "[0K[?25hj[0Ka[0Kn[0Ke[0Ks[0K[?25l$ git config --global user.email "jane[0K[?25h[?25l$ git config --global user.email "jan[0K[?25h[?25l$ git config --global user.email "ja[0K[?25h[?25l$ git config --global user.email "j[0K[?25h[?25l$ git config --global user.email "[0K[?25hj[0Kz[0Kd[0K0[0K0[0K0[0K9[0K@[0Kt[0Ki[0Kg[0Ke[0Kr[0Km[0Ka[0Ki[0K.[0K[?25l$ git config --global user.email "jzd0009@tigermai[0K[?25hl[0K.[0Ka[0Ku[0Kb[0Ku[0Kr[0Kn[0K.[0Ke[0Kd[0Ku[0K"[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K[14G[?25l$ git config -[0K[?25h-[0Kg[0Kl[0Ko[0Kb[0K[?25l$ git config --glo[0K[?25h[?25l$ git config --gl[0K[?25h[?25l$ git config --g[0K[18G[?25h[17G[?25l$ git config --[0K[17G[?25h[?25l$ git config[0K[14G[?25h[13G[?25l$ git con[0K[?25h[?25l$ git co[0K[10G[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[6G[?25l$ gi[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K[14G[?25l$ git config -[0K[?25h-[0Kg[0Kl[0Ko[0Kb[0Ka[0Kl[0K[23G[?25l$ git config --global u[0K[?25hs[0Ke[0Kr[0K.[0Ke[0Km[0Ka[0Ki[0Kl[0K[?25l
+[0K[?25hjzd0009@tigermail.auburn.edu[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rp[0m[0K[1G[?25h        [0;31mmodified:   .Rproj.user/BD07C3B/console06/779A38CE[0m[0K[?25l
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
 [0K[?25h
