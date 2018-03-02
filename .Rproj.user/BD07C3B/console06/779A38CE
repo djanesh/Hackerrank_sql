@@ -508,4 +508,139 @@ Total 19 (delta 10), reused 0 (delta 0)[0K
 $[0K[3G[?25h[0m[0K]0;:/d/Personal Projects/github/hackerrank_sql[?25l
 [0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
 [?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/BD07C3B/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[24G[?25l$ git commit -m "added R[0K[?25he[0Ka[0Kd[0K[29G[?25l$ git commit -m "added Read m[0K[?25he[0K[32G[?25l$ git commit -m "added Read me f[0K[?25hi[0Kl[0Ke[0K"[0K[?25l
+[0K[?25h[master[0K[9G[?25l[master warning: LF will be replaced by CRLF in .Rproj.user/BD07C3B/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25he76a82b] added Read me file[0K[?25l
+warning: LF will be replaced by CRLF in .Rproj.user/BD07C3B/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory.[0K
+ 49 files changed, 87 insertions(+), 573 deletions(-)[0K
+ rewrite .Rproj.user/BD07C3B/console06/INDEX001 (100%)[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/1B0923CC[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/1B0923CC-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/28B43AF4[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/28B43AF4-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/3B1929CB[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/3B1929CB-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/4A0FE779-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/526C6070[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/526C6070-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/590036CD[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/590036CD-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/5A58F098[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/5A58F098-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/66C1BA9A[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/66C1BA9A-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/772E2154[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/772E2154-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/802840CB[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/802840CB-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/8806889D[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/8806889D-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/94F18795[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/94F18795-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/9E9E596D[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/9E9E596D-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/A08394DC[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/A08394DC-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/BB375A27-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/D5F8D9FE[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/D5F8D9FE-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/D7AC1256[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/D7AC1256-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/D867DFE0-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/E8BE1AC6[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/E8BE1AC6-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/ECF774AD-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/EEDA58E[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/EEDA58E-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/F4F52E5E[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/F4F52E5E-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/F838DFF2[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/F838DFF2-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/lock_file[0K
+ create mode 100644 .gitignore[0K
+ create mode 100644 readme.Rmd[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[26G[?25l
+[0K[?25hCounting objects: 15, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects:  93% (14/15)[0K[1G[?25hWriting objects: 100% (15/15), 1.76 KiB | 0 bytes/s, done.[0K[?25l
+Total 15 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
+[0K[?25hTo https://github.com/djanesh/Hackerrank_sql.git[0K[?25l
+   9d076da..e76a82b  master -> master[0K
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[17A[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/F838DFF[0K2
+-contents[0K
+ delete mode 100644 .Rproj.user/BD07C3B/sources/s-F2DC9FA7/lock_fi[0Kl
+e[0K
+ create mode 100644 .gitignore[0K
+ create mode 100644 readme.Rmd[0K
+[0K
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 15, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (15/15), 1.76 KiB | 0 bytes/s, done.[0K
+Total 15 (delta 5), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (5/5), completed with 5 local objec[0Kt
+s.[0K
+To https://github.com/djanesh/Hackerrank_sql.git[0K
+   9d076da..e76a82b  master -> master[0K
+[0K
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l[13A[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0K
+[0m$ git push origin master[0K
+Counting objects: 15, done.[0K
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (15/15), 1.76 KiB | 0 bytes/s, done.[0K
+Total 15 (delta 5), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K
+To https://github.com/djanesh/Hackerrank_sql.git[0K
+   9d076da..e76a82b  master -> master[0K
+[0K
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0K
+[0m$[0K
+[0K[1A[3G[?25h[?25l$ g[0K
+[0K[1A[4G[?25h[?25l$ gi[0K
+[0K[1A[5G[?25h[?25l$ git[0K
+[0K[1A[6G[?25h[7G[?25l$ git g[0K
+[0K[1A[8G[?25h[?25l$ git gl[0K
+[0K[1A[9G[?25h[?25l$ git glo[0K
+[0K[1A[10G[?25h[?25l$ git glob[0K
+[0K[1A[11G[?25h[?25l$ git globa[0K
+[0K[1A[12G[?25h[?25l$ git global[0K
+[0K[1A[13G[?25h[14G[?25l$ git global u[0K
+[0K[1A[15G[?25h[?25l$ git global us[0K
+[0K[1A[16G[?25h[?25l$ git global use[0K
+[0K[1A[17G[?25h[?25l$ git global user[0K
+[0K[1A[18G[?25h[?25l$ git global user.[0K
+[0K[1A[19G[?25h[?25l$ git global user.n[0K
+[0K[1A[20G[?25h[?25l$ git global user.na[0K
+[0K[1A[21G[?25h[?25l$ git global user.nam[0K
+[0K[1A[22G[?25h[?25l$ git global user.name[0K
+[0K[1A[23G[?25h[?25l
+[?25hgit: 'global' is not a git command. See 'git --help'.[0K[?25l
+[0K[?25h[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0K]0;:/d/Personal Projects/github/hackerrank_sql[?25l
+[0;32mDSI@DSI-PC [0;35m [0;33m/d/Personal Projects/github/hackerrank_sql[0;36m (master)[0m[0K
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
 [0K[?25h
